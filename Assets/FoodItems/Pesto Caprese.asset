@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d405bf2e804e4804a9a0c97816d517c3, type: 3}
+  m_Name: Pesto Caprese
+  m_EditorClassIdentifier: 
+  icon: {fileID: -7929972468909969721, guid: f8c00987489d8164d954ca1aa41efa4b, type: 3}
+  allergies: 0200000004000000
+  meal: 1
+  eaten: 0
